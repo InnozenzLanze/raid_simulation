@@ -4,6 +4,6 @@ Privates Projekt neben der Ausbildung zum Fachinformatiker für Anwendungsentwic
 
 Quellen sind vom Leistungsträger der Maßnahme gestellte Fachbücher und Web-basierte Publikationen in der weiten Welt des Internets.
 
-Weitere Informationen sind in der Raid_Simulation_Lastenheft.txt zu finden.
+Weitere Informationen sind in der RaidSimulation_Lastenheft.txt zu finden.
 
 lieben gruss
