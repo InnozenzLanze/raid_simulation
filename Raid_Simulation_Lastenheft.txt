@@ -1,0 +1,80 @@
+Lastenheft
+Quelle: 
+1. 	"Anwendungsentwicklung in Theorie und Praxis" 
+	Bildungsverlag EINS westermann, 1.Auflage, 2019
+2.	"Grundstufe IT-Systeme"
+	westermann, 2. Auflage, 2023
+	
+/Version/Datum/Kommentar
+/1.0_thatch/2025-11-10/erstellt
+
+1.Ziel
+/Nr/Bezeichnung
+/LZ010/ Anwendung, die die grundliegende Funktion von RAID simulieren soll.  
+
+2.Rahmenbedingungen
+/Nr/Bezeichnung
+/LR010/ Privates Übungsprojekt. 
+/LR020/ Lernziel: 
+/LR021/ FUNKTION von RAIDLvL können erklärt werden. 
+/LR022/ UML-Diagramme können erstellt werden.
+/LR023/ Objektorientierte Programmierung ist angewendet worden. 
+
+3.Kontext und Überblick
+/LK010/ Die Anwendung wird über cmd gesteuert. 
+/LK020/ Rechner der Benutzenden nutzen Win11 und LinuxMint
+
+4.Funktionale Anforderungen
+Die Anwendung soll...
+
+/Nr/Bezeichnung
+/LFA010/ Anwendenden die Möglichkeit einer Auswahl des gewünschten 
+		 RAID-Systems geben.
+/LFA020/ die benötigte Anzahl an Speicherplatten bereitstellen.
+/LFA030/ Anwendenden über ein Text-Menü die Möglichkeit zur Eingabe
+		 eines Strings geben.
+/LFA040/ den eingegebenen String entsprechend verarbeiten.
+/LFA041/	0 Striping: Aufteilen der Elemente des Strings.
+/LFA042/	1 Mirroring: Spiegeln der Elemente des Strings.
+/LFA043/	5 Parity: Stringelement wird als Paritätselement markiert 
+			und in der Speicherberechnung reduziert (Simulation).
+/LFA050/ über einen Zufallswert entscheiden, ob eine Speicherzelle beim
+		 Speichervorgang defekt ist.
+/LFA060/ Anwendenden die Möglichkeit zum Abrufen des gespeicherten 
+		 Strings geben.
+/LFA070/ den String, wenn möglich wieder ausgeben.
+/LFA080/ bei einem nicht wiederherstellbaren String eine eindeutige 
+		 Fehlermeldung ausgeben.
+/LFA090/
+/LFA100/
+
+
+weiter geplante Features:
+/Nr/Bezeichnung
+/LFB010/ 1.0_thatch; aktuelle Version 
+/LFB020/ 1.1_wood; Der gespeicherte String wird
+/LFB021/ 	in Hexadezimalwerte nach ASCII-Tabelle umgewandelt
+			(wobei Umlaute durch IF ersetzt werden (bspw. ü->ue)
+/LFB022/	Die Hexadezimalwerte werden in Binär umgerechnet 
+/LFB030/ 1.2_stone; Datenbankanbindung mit simulierten Speicherzellen
+		 zur Speicherung der Binärwörter
+/LFB031/	ggf. simple Verschlüsselung der Werte beim Übergeben in die 
+			Datenbank
+/LFB040/ 1.3_metal
+/LFB050/ 1.4_tek
+
+5.Qualitätsanforderungen
+/Nr/Bezeichnung
+
+Reaktionszeit:
+/LQ001/ keine Anforderungen. Es ist ein Übungsprojekt.
+
+Systemqualität/(sehr gut, gut, normal, nicht relevant):
+/LQ002/Funktionalität/ gut
+/LQ003/Zuverlässigkeit/ gut
+/LQ004/Benutzbarkeit/ nicht relevant
+/LQ005/Effizienz/ nicht relevant
+/LQ006/Änderbarkeit/ normal
+/LQ007/Übertragbarkeit/ nicht relevant
+
+6.Glossar
