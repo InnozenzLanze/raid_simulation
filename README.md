@@ -1,4 +1,4 @@
-Privates Projekt neben der Ausbildung zum Fachinformatiker für Anwendungsentwicklung. Das Projekt ist eine eigenverantwortliche Einzelarbeit ohne Terminfrist oder Kontrolle durch Dritte.
+Privates Projekt neben der Ausbildung zum Fachinformatiker für Anwendungsentwicklung. Das Projekt ist eine eigenverantwortliche Einzelarbeit ohne Terminfrist oder Kontrolle durch Dritte, die bei Bedarf von unterstützender Beratung oder Feedback von Dozenten profitiert.
 
 
 
