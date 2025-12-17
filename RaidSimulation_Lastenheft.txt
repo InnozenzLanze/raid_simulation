@@ -42,7 +42,7 @@ Die Anwendung soll...
 		 Speichervorgang defekt ist.
 /LFA060/ Anwendenden die Möglichkeit zum Abrufen des gespeicherten 
 		 Strings geben.
-/LFA070/ den String, wenn möglich wieder ausgeben.
+/LFA070/ den String, wenn möglich wieder ausgeben. (nicht-linear/symmetrische Rekursion)
 /LFA080/ bei einem nicht wiederherstellbaren String eine eindeutige 
 		 Fehlermeldung ausgeben.
 /LFA090/
