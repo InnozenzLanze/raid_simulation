@@ -4,17 +4,23 @@
 * version: 1.0_thatch; erstellt
 */
 import java.util.*;
-package HardwareSimulation; 
+import hardwaresimulation.*; 
 
 public class RaidSimulation {
 	public static void main(String[] args) {
 		
-		//Dialog
+		//Dialog Konfiguration
 		System.out.println("Guten Tag. Sie wünschen einen RAID einzurichten?");
 		System.out.print("Bitte geben Sie die gewünschte Konfiguration an: ");
-		Raid.konfigurieren();
-		//Eingabe
 		
+		String raid = Raid.konfigurieren();
+		System.out.println("Sie haben " + raid + " gewählt.");
+		
+		//Dialog Datensatz erstellen
+		System.out.println("Bitte geben Sie Ihren zu speichernden Text ein.");
+		String datensatz = Datensatz.erstellen();
+		System.out.println("Diesen Datensatz speichern?");
+		System.out.print("Datensatz: " + datensatz);
 		
 		//Verarbeitung
 		
