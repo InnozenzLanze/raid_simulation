@@ -5,12 +5,12 @@
 */
 import java.util.*;
 import hardwaresimulation.*; 
+import navigationtext.*;
 
 public class RaidSimulation {
 	public static void main(String[] args) {
 		
-		//Dialog Konfiguration
-		System.out.println("Guten Tag. Sie wünschen einen RAID einzurichten?");
+		System.out.println("Sie wünschen einen RAID einzurichten?");
 		System.out.print("Bitte geben Sie die gewünschte Konfiguration an: ");
 		
 		String raid = Raid.konfigurieren();
@@ -21,8 +21,6 @@ public class RaidSimulation {
 		String datensatz = Datensatz.erstellen();
 		System.out.println("Diesen Datensatz speichern?");
 		System.out.print("Datensatz: " + datensatz);
-		
-		//Verarbeitung
 		
 	}
 }
