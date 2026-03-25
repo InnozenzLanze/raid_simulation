@@ -1,0 +1,15 @@
+/Users/delcrow/Documents/gitHub/raid_simulation/raid-simulation/bin/Debug/net10.0/raid-simulation
+/Users/delcrow/Documents/gitHub/raid_simulation/raid-simulation/bin/Debug/net10.0/raid-simulation.deps.json
+/Users/delcrow/Documents/gitHub/raid_simulation/raid-simulation/bin/Debug/net10.0/raid-simulation.runtimeconfig.json
+/Users/delcrow/Documents/gitHub/raid_simulation/raid-simulation/bin/Debug/net10.0/raid-simulation.dll
+/Users/delcrow/Documents/gitHub/raid_simulation/raid-simulation/bin/Debug/net10.0/raid-simulation.pdb
+/Users/delcrow/Documents/gitHub/raid_simulation/raid-simulation/obj/Debug/net10.0/raid-simulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/delcrow/Documents/gitHub/raid_simulation/raid-simulation/obj/Debug/net10.0/raid-simulation.AssemblyInfoInputs.cache
+/Users/delcrow/Documents/gitHub/raid_simulation/raid-simulation/obj/Debug/net10.0/raid-simulation.AssemblyInfo.cs
+/Users/delcrow/Documents/gitHub/raid_simulation/raid-simulation/obj/Debug/net10.0/raid-simulation.csproj.CoreCompileInputs.cache
+/Users/delcrow/Documents/gitHub/raid_simulation/raid-simulation/obj/Debug/net10.0/raid-simulation.sourcelink.json
+/Users/delcrow/Documents/gitHub/raid_simulation/raid-simulation/obj/Debug/net10.0/raid-simulation.dll
+/Users/delcrow/Documents/gitHub/raid_simulation/raid-simulation/obj/Debug/net10.0/refint/raid-simulation.dll
+/Users/delcrow/Documents/gitHub/raid_simulation/raid-simulation/obj/Debug/net10.0/raid-simulation.pdb
+/Users/delcrow/Documents/gitHub/raid_simulation/raid-simulation/obj/Debug/net10.0/raid-simulation.genruntimeconfig.cache
+/Users/delcrow/Documents/gitHub/raid_simulation/raid-simulation/obj/Debug/net10.0/ref/raid-simulation.dll
