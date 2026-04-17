@@ -9,5 +9,5 @@ public class Dialog
         "5 -> LVL5" ;
 
     public const String CHOSEN_RAID =
-        "Sie haben gewählt: ";
+        "Sie haben gewaehlt: ";
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("raid-simulation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba59d1e0b4daf9abc06ae1d960556d55b6984d20")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ae03c0016eaae3f216e5f9d4615e7be25604360")]
 [assembly: System.Reflection.AssemblyProductAttribute("raid-simulation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("raid-simulation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
